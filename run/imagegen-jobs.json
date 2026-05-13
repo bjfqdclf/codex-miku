@@ -457,14 +457,14 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/bjfqdclf/.codex/generated_images/019e1bbd-1e53-7312-b664-e4aad642d1a8/ig_0bdcb75079ff8bd1016a0301df44448191bd6b603f2eb04e21.png",
+      "source_path": "/Users/bjfqdclf/.codex/generated_images/019e219b-e087-78d0-9a77-7f8822dded32/ig_0682e850a6233a1d016a04834952388191b246d07638de7549.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "620764c10a1d6da2fb79670deccb463310f4c907c48e13fa9014927247a50bd3",
-      "output_sha256": "620764c10a1d6da2fb79670deccb463310f4c907c48e13fa9014927247a50bd3",
-      "completed_at": "2026-05-12T10:35:19.847939+00:00",
+      "source_sha256": "6a54647e4a140512f4aad58cc35596642e82329533f4c4f26c67b1dfcb0150bf",
+      "output_sha256": "6a54647e4a140512f4aad58cc35596642e82329533f4c4f26c67b1dfcb0150bf",
+      "completed_at": "2026-05-13T13:59:23.782109+00:00",
       "metadata": {
-        "width": 1659,
-        "height": 948,
+        "width": 2115,
+        "height": 743,
         "mode": "RGB",
         "format": "PNG"
       }

@@ -15,18 +15,20 @@ Style contract: Codex digital pet sprite style: pixel-art-adjacent low-resolutio
 
 Use this prompt as an authoritative sprite-production spec. Do not expand it into a polished illustration, painterly character image, anime key art, 3D render, vector mascot, glossy app icon, realistic animal portrait, or marketing artwork.
 
-Animation action: focused inspecting or review loop.
+Animation action: focused thinking loop: Miku touches her chin while a tiny loading spinner rotates near the upper-left side of her head.
 
 
 State-specific requirements:
-- Show review through lean, blink, narrowed eyes, head tilt, or paw position.
-- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+- Show review/thinking through one hand touching the chin, a slight head tilt, narrowed or thoughtful eyes, blinking, and small twin-tail sway.
+- Add one tiny pixel-style loading spinner near the upper-left side of Miku's head in every frame. The spinner must be close enough to touch or overlap the outer hair/head silhouette by 1-2 pixels so it is processed as part of the same sprite component.
+- Animate the spinner by changing the highlighted segment position across the 6 frames, like a simple rotating loading circle. Use dark gray/white/cyan pixels only; no text, no numbers, no UI panel, no glow, and no detached floating ring.
+- Do not add magnifying glasses, papers, code, UI panels, punctuation, speech bubbles, thought bubbles, or other new props.
 
 Transparency and artifact rules:
 - Prefer pose, expression, and silhouette changes over decorative effects.
-- Effects are allowed only when they are state-relevant, opaque, hard-edged, pixel-style, fully inside the same frame slot, and physically touching or overlapping the pet silhouette.
+- Effects are allowed only when they are state-relevant, opaque, hard-edged, pixel-style, fully inside the same frame slot, and physically touching or overlapping the pet silhouette. The loading spinner is allowed only because it is requested for this review/thinking action and must touch or overlap the upper-left hair/head silhouette.
 - Allowed attached effects can include a tear touching the face, a small smoke puff touching the pet or prop, or tiny stars overlapping the pet during a failed/dizzy reaction.
-- Do not draw detached effects: floating stars, loose sparkles, floating punctuation, floating icons, falling tear drops, separated smoke clouds, loose dust, disconnected outline bits, or stray pixels.
+- Do not draw detached effects: floating stars, loose sparkles, floating punctuation, floating icons, detached loading rings, falling tear drops, separated smoke clouds, loose dust, disconnected outline bits, or stray pixels.
 - Do not draw wave marks, motion arcs, speed lines, action streaks, afterimages, blur, smears, halos, glows, auras, floor patches, cast shadows, contact shadows, drop shadows, oval floor shadows, landing marks, or impact bursts.
 - Do not include text, labels, frame numbers, visible grids, guide marks, speech bubbles, thought bubbles, UI panels, code snippets, scenery, checkerboard transparency, white backgrounds, or black backgrounds.
 - Do not use the chroma-key color or chroma-key-adjacent colors in the pet, prop, effects, highlights, shadows, or outlines.
