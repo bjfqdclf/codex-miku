@@ -2,8 +2,6 @@
 
 一个适用于 Codex 自定义桌面宠物的 Hatsune Miku 风格像素宠物资源包。
 
-仓库地址：`git@github.com:bjfqdclf/codex-miku.git`
-
 <p align="center">
   <img src="assets/miku-pet-cover.png" alt="Codex Miku Pet" width="420">
 </p>
