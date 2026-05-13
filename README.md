@@ -4,7 +4,7 @@
 
 仓库地址：`git@github.com:bjfqdclf/codex-miku.git`
 
-![Codex Miku Pet contact sheet](run/qa/contact-sheet.png)
+![Codex Miku Pet](assets/miku-pet-cover.png)
 
 ## 内容
 
@@ -14,6 +14,8 @@
 package/
   pet.json
   spritesheet.webp
+assets/
+  miku-pet-cover.png
 run/
   final/
     validation.json
@@ -25,6 +27,7 @@ run/
 
 - `package/pet.json`：Codex 宠物元信息，包含 `id`、展示名称、描述和精灵图路径。
 - `package/spritesheet.webp`：可直接使用的透明背景动画精灵图。
+- `assets/miku-pet-cover.png`：GitHub README 头图。
 - `run/qa/contact-sheet.png`：所有动作帧的总览图，适合在 GitHub 页面快速预览。
 - `run/qa/videos/`：各动作的本地预览视频。
 - `run/final/validation.json`：精灵图验证结果。
