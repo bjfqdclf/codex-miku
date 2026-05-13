@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run",
+  "spritesheet": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/final/spritesheet.webp",
+  "validation": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/final/validation.json",
+  "contact_sheet": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/qa/contact-sheet.png",
+  "review": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/qa/review.json",
+  "videos": null,
+  "package": null
+}

@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27103,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27095,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 386
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27282,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 392
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27334,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 407
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27447,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27104,
+          "bbox": [
+            5,
+            9,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 489
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21877,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 450
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21769,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20449,
+          "bbox": [
+            5,
+            7,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 472
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22068,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 479
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21342,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 448
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21426,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 6,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21420,
+          "bbox": [
+            5,
+            7,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 436
+        },
+        {
+          "index": 7,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21067,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21067,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21420,
+          "bbox": [
+            5,
+            7,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 436
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21426,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21342,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 448
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22068,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 479
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20449,
+          "bbox": [
+            5,
+            7,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 472
+        },
+        {
+          "index": 6,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21769,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 7,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21877,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 450
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25043,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24890,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25343,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25072,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23521,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 555
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22642,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 428
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21684,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21144,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 428
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25464,
+          "bbox": [
+            5,
+            12,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 494
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24956,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 389
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25755,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 30698,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 693
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 31720,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 667
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24585,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24425,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 533
+        },
+        {
+          "index": 6,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 30296,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 615
+        },
+        {
+          "index": 7,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27324,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 620
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26014,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23447,
+          "bbox": [
+            5,
+            25,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26161,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 363
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26534,
+          "bbox": [
+            5,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 469
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26748,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 407
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25438,
+          "bbox": [
+            5,
+            15,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27704,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 369
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27666,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27678,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 392
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27600,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 401
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27354,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27353,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 379
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27037,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 389
+        },
+        {
+          "index": 1,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22121,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        },
+        {
+          "index": 2,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26924,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 3,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 28830,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 512
+        },
+        {
+          "index": 4,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22092,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 348
+        },
+        {
+          "index": 5,
+          "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26677,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 363
+        }
+      ]
+    }
+  ]
+}

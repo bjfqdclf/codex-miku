@@ -1,0 +1,206 @@
+{
+  "pet_id": "hatsune-miku",
+  "display_name": "Hatsune Miku",
+  "description": "A tiny Codex desktop pet inspired by Hatsune Miku, with teal twin-tails, black-gray outfit, and cheerful singer energy.",
+  "created_at": "2026-05-12T10:11:27.859673+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "neutral breathing/blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward locomotion loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward locomotion loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting gesture with raised wave and return"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "anticipation, lift, peak, descent, settle"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "sad, failed, or deflated reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "patient waiting loop with small motion"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active working/in-progress loop"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "focused inspecting or review loop"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references/layout-guides/idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references/layout-guides/running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references/layout-guides/running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references/layout-guides/waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references/layout-guides/jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references/layout-guides/failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references/layout-guides/waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references/layout-guides/running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references/layout-guides/review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "magenta",
+    "selection": "fallback"
+  },
+  "pet_notes": "Create a Codex digital pet inspired by Hatsune Miku: compact chibi proportions, teal twin-tails, cheerful expressive face, black and gray singer outfit with small teal accents, tiny headset-like side details, no text or logos, no stage scenery. Keep it sprite-friendly and simplified.",
+  "style_notes": "Codex app built-in digital pet style: pixel-art-adjacent, thick dark 1-2 px outlines, stepped edges, limited palette, flat cel shading, compact readable silhouette, chroma-key background for cleanup.",
+  "house_style": "Codex digital pet sprite style: pixel-art-adjacent low-resolution mascot sprite, compact chibi proportions, chunky whole-body silhouette, thick dark 1-2 px outline, visible stepped/pixel edges, limited palette, flat cel shading with at most one small highlight and one shadow step, simple readable face, tiny limbs, and no detail that disappears at 192x208. Avoid polished illustration, painterly rendering, anime key art, 3D render, vector app-icon polish, glossy lighting, soft gradients, realistic fur or material texture, anti-aliased high-detail edges, and complex tiny accessories.",
+  "primary_generation_skill": "$imagegen",
+  "canonical_identity_reference": {
+    "path": "references/canonical-base.png",
+    "source_job": "base",
+    "sha256": "bcadf29cd6d9396ffbb85cbd2acfbb3b9937154e84c7f7f37e3ee859de1b8005",
+    "metadata": {
+      "width": 1204,
+      "height": 1306,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}
