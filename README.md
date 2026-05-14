@@ -22,6 +22,7 @@ run/
     spritesheet.webp
   qa/
     contact-sheet.png
+    gifs/
     videos/
 ```
 
@@ -29,22 +30,23 @@ run/
 - `package/spritesheet.webp`：可直接使用的透明背景动画精灵图。
 - `assets/miku-pet-cover.png`：GitHub README 头图。
 - `run/qa/contact-sheet.png`：所有动作帧的总览图，适合在 GitHub 页面快速预览。
+- `run/qa/gifs/`：各动作的 README 动图预览。
 - `run/qa/videos/`：各动作的本地预览视频。
 - `run/final/validation.json`：精灵图验证结果。
 
 ## 动作状态
 
-| 状态 | 动画介绍 | 首帧 | 预览 |
-| --- | --- | --- | --- |
-| `idle` | 默认待机状态，轻微呼吸和站立动作，适合日常陪伴。 | <img src="run/frames/idle/00.png" alt="idle" width="72"> | [idle.mp4](run/qa/videos/idle.mp4) |
-| `running` | 通用跑步循环，用在移动或过渡时，动作更活泼。 | <img src="run/frames/running/00.png" alt="running" width="72"> | [running.mp4](run/qa/videos/running.mp4) |
-| `running-right` | 向右移动时的跑步动画，双马尾随动作摆动。 | <img src="run/frames/running-right/00.png" alt="running-right" width="72"> | [running-right.mp4](run/qa/videos/running-right.mp4) |
-| `running-left` | 向左移动时的跑步动画，与右移动方向保持一致的镜像表现。 | <img src="run/frames/running-left/00.png" alt="running-left" width="72"> | [running-left.mp4](run/qa/videos/running-left.mp4) |
-| `waving` | 挥手打招呼，适合作为唤醒、互动或欢迎动作。 | <img src="run/frames/waving/00.png" alt="waving" width="72"> | [waving.mp4](run/qa/videos/waving.mp4) |
-| `waiting` | 等待状态，动作更克制，适合任务排队或短暂停顿。 | <img src="run/frames/waiting/00.png" alt="waiting" width="72"> | [waiting.mp4](run/qa/videos/waiting.mp4) |
-| `jumping` | 跳跃动作，表现开心、确认或轻量反馈。 | <img src="run/frames/jumping/00.png" alt="jumping" width="72"> | [jumping.mp4](run/qa/videos/jumping.mp4) |
-| `review` | Review 场景动作，适合 Codex 正在检查、阅读或思考时展示。 | <img src="run/frames/review/00.png" alt="review" width="72"> | [review.mp4](run/qa/videos/review.mp4) |
-| `failed` | 失败或出错反馈动作，用于任务失败时的可爱状态提示。 | <img src="run/frames/failed/00.png" alt="failed" width="72"> | [failed.mp4](run/qa/videos/failed.mp4) |
+| 状态 | 动画介绍 | 动图 |
+| --- | --- | --- |
+| `idle` | 默认待机状态，轻微呼吸和站立动作，适合日常陪伴。 | <img src="run/qa/gifs/idle.gif" alt="idle" width="72"> |
+| `running` | 通用跑步循环，用在移动或过渡时，动作更活泼。 | <img src="run/qa/gifs/running.gif" alt="running" width="72"> |
+| `running-right` | 向右移动时的跑步动画，双马尾随动作摆动。 | <img src="run/qa/gifs/running-right.gif" alt="running-right" width="72"> |
+| `running-left` | 向左移动时的跑步动画，与右移动方向保持一致的镜像表现。 | <img src="run/qa/gifs/running-left.gif" alt="running-left" width="72"> |
+| `waving` | 挥手打招呼，适合作为唤醒、互动或欢迎动作。 | <img src="run/qa/gifs/waving.gif" alt="waving" width="72"> |
+| `waiting` | 等待状态，动作更克制，适合任务排队或短暂停顿。 | <img src="run/qa/gifs/waiting.gif" alt="waiting" width="72"> |
+| `jumping` | 跳跃动作，表现开心、确认或轻量反馈。 | <img src="run/qa/gifs/jumping.gif" alt="jumping" width="72"> |
+| `review` | Review 场景动作，适合 Codex 正在检查、阅读或思考时展示。 | <img src="run/qa/gifs/review.gif" alt="review" width="72"> |
+| `failed` | 失败或出错反馈动作，用于任务失败时的可爱状态提示。 | <img src="run/qa/gifs/failed.gif" alt="failed" width="72"> |
 
 ## 安装
 
