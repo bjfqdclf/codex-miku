@@ -18,8 +18,10 @@ Use this prompt as an authoritative sprite-production spec. Do not expand it int
 Animation action: concert cheering call loop: Miku holds a leek-shaped green glow stick in her own right hand, raises it for fan support, and makes a small tiptoe hop like concert cheering.
 
 
-- Show the jump through a very small vertical body bob only: standing prep, tiptoe lift with the right hand raising the leek glow stick, tiny peak while still close to the ground, gentle descent, cheerful settle.
-- Do not use a deep crouch, curled squat, big airborne leap, high knee jump, or dramatic landing. The feet should stay close to their original standing position, like bouncing on tiptoes.
+- Show the motion through tiptoe posture and arm movement only: standing prep, heels lift slightly, right hand raises the leek glow stick, tiny tiptoe peak, heels lower, cheerful settle.
+- Keep Miku the exact same visual scale in all 5 frames. The head width, head height, twin-tail size, torso size, and full sprite bounding-box height must match frame-to-frame. Do not zoom, shrink, enlarge, squash, stretch, or redraw her at a different size.
+- Keep the feet close to the same baseline in every frame. The toes may stay planted while the heels lift by only 2-4 pixels; the whole body may rise by at most 3-5 pixels. Do not make her float in the air.
+- Do not use a deep crouch, curled squat, sitting pose, big airborne leap, high knee jump, bent-leg tuck, dramatic landing, or large vertical bob. This is a subtle tiptoe bounce, not a jump.
 - The prop must be a small leek-shaped green concert glow stick held in Miku's own right hand in every frame. Keep it physically attached to the hand with a clear grip; do not make it float or switch hands.
 - Make the pose feel like concert fan support: bright cheerful face, rhythmic upward arm pump, slight tiptoe lift, small twin-tail bounce.
 - Keep the leek glow stick sprite-like and opaque with hard pixel edges. It may use bright green and pale cyan highlights, but no soft glow, halo, aura, light beam, particle trail, or detached shine.

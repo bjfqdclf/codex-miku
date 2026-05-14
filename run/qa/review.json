@@ -452,75 +452,75 @@
           "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26186,
+          "nontransparent_pixels": 19909,
           "bbox": [
+            19,
             5,
-            9,
-            187,
-            199
+            172,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 389
+          "chroma_adjacent_pixels": 392
         },
         {
           "index": 1,
           "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23506,
+          "nontransparent_pixels": 19909,
           "bbox": [
-            8,
-            5,
-            184,
-            203
+            19,
+            3,
+            172,
+            201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 353
+          "chroma_adjacent_pixels": 392
         },
         {
           "index": 2,
           "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21588,
+          "nontransparent_pixels": 19909,
           "bbox": [
-            13,
-            5,
-            178,
-            203
+            19,
+            1,
+            172,
+            199
           ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 351
+          "edge_pixels": 22,
+          "chroma_adjacent_pixels": 392
         },
         {
           "index": 3,
           "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22975,
+          "nontransparent_pixels": 19909,
           "bbox": [
-            9,
-            5,
-            183,
-            203
+            19,
+            3,
+            172,
+            201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 371
+          "chroma_adjacent_pixels": 392
         },
         {
           "index": 4,
           "file": "/Users/bjfqdclf/Public/dev/codex-pet/miku-pet/run/frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26384,
+          "nontransparent_pixels": 19909,
           "bbox": [
+            19,
             5,
-            5,
-            186,
+            172,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 382
+          "chroma_adjacent_pixels": 392
         }
       ]
     },
