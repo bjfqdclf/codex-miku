@@ -15,12 +15,16 @@ Style contract: Codex digital pet sprite style: pixel-art-adjacent low-resolutio
 
 Use this prompt as an authoritative sprite-production spec. Do not expand it into a polished illustration, painterly character image, anime key art, 3D render, vector mascot, glossy app icon, realistic animal portrait, or marketing artwork.
 
-Animation action: anticipation, lift, peak, descent, settle.
+Animation action: concert cheering call loop: Miku holds a leek-shaped green glow stick in her own right hand, raises it for fan support, and makes a small tiptoe hop like concert cheering.
 
 
-State-specific requirements:
-- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
+- Show the jump through a very small vertical body bob only: standing prep, tiptoe lift with the right hand raising the leek glow stick, tiny peak while still close to the ground, gentle descent, cheerful settle.
+- Do not use a deep crouch, curled squat, big airborne leap, high knee jump, or dramatic landing. The feet should stay close to their original standing position, like bouncing on tiptoes.
+- The prop must be a small leek-shaped green concert glow stick held in Miku's own right hand in every frame. Keep it physically attached to the hand with a clear grip; do not make it float or switch hands.
+- Make the pose feel like concert fan support: bright cheerful face, rhythmic upward arm pump, slight tiptoe lift, small twin-tail bounce.
+- Keep the leek glow stick sprite-like and opaque with hard pixel edges. It may use bright green and pale cyan highlights, but no soft glow, halo, aura, light beam, particle trail, or detached shine.
 - Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
+- Do not draw a stage, audience, speakers, microphones, spotlights, music notes, text, UI, confetti, or detached glow-stick light effects.
 - Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
 
 Transparency and artifact rules:
